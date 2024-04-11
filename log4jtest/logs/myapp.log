@@ -1,0 +1,4 @@
+2024-03-08 17:33:18,586 - com.log4jpratices.App [processData] -(INFO) from thr info 
+2024-03-08 17:33:18,590 - com.log4jpratices.App [processData] -(WARN) from arn method 
+2024-03-08 17:33:18,590 - com.log4jpratices.App [processData] -(ERROR) this is from error 
+2024-03-08 17:33:18,591 - com.log4jpratices.App [processData] -(FATAL) this is from fatal 

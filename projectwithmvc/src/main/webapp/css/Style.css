@@ -1,0 +1,14 @@
+
+.purple{
+	background:#d1c4e9;
+}
+.heading{
+display:flex;
+ justify-content: center;
+  align-items: center;
+}
+.contaiber{
+	display:flex;
+ justify-content: center;
+  align-items: center;
+}
